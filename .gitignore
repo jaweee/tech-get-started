@@ -24,3 +24,6 @@ hs_err_pid*
 
 /.idea/
 /rabbitmq-tutorials/target/
+/rabbitmq-tutorials/rabbitmq-tutorials.iml
+/redis-tutorials/target/
+/redis-tutorials/redis-tutorials.iml
